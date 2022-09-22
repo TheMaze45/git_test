@@ -1,1 +1,2 @@
 Git and GitHub is awesome :)
+Testing Git Commit Message
